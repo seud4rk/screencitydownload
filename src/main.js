@@ -7,7 +7,7 @@ document.querySelector('#app').innerHTML = `
       <h1><span>Screen</span>City</h1>
       <p class="subtitle">Aplicativo oficial de mídia indoor</p>
 
-      <a class="download" href="/ScreenCity.apk" download>
+      <a class="download" href="/ScreenCity-1.2.apk" download>
         BAIXAR SCREENCITY
       </a>
 
